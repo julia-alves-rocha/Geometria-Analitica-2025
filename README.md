@@ -1,7 +1,7 @@
 # Geometria-Analitica-2025
 
 
-Aplicações computacionais de geometria analítica, com foco em programação gráfica e resolução de problemas geométricos.
+Aplicações computacionais de geometria analítica, com foco em resolução de problemas geométricos.
 
 ## 📚 Conteúdo Programático
 
